@@ -1,0 +1,9 @@
+# folders
+.yarn
+dist
+node_modules
+.husky
+.vscode
+.github
+commitlint.config.js
+README.md
